@@ -1,9 +1,11 @@
 [package]
 name = "ast-visitor"
 version = "0.1.0"
-description = "A Rust library for Ast Visitor"
+description = "Ast Visitor — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/ast-visitor"
+repository = "https://github.com/SuperInstance/ast-visitor"
 edition = "2021"
+
+keywords = ["ast-visitor"]
 
 [dependencies]
